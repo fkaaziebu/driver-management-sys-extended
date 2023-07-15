@@ -1,0 +1,18 @@
+module.exports = {
+  driver_create_success: "Driver created",
+  email_null: "Email cannot be null",
+  email_invalid: "Email is Invalid",
+  email_inuse: "Email is in use",
+  password_null: "Password cannot be null",
+  password_size: "Password length must be at least 6",
+  unsupported_image_file: "Unsupported image file",
+  authentication_failure: "Incorrect credentials",
+  driverLicense_null: "Driver License cannot be null",
+  account_activation_success: "Account successfully activated",
+  authentication_failure: "Incorrect credentials",
+  login_success: "Successfully logged in",
+  password_pattern: "Password must be at least 1 lowercase letter and 1 number",
+  inactive_authentication_failure: "Account is inactive",
+  wrong_license_info: "Wrong license information",
+  email_failure: "Email Failure",
+};
